@@ -1,0 +1,11 @@
+.home {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
+  background: linear-gradient(
+    0deg,
+    rgba(187, 89, 255, 1) 0%,
+    rgb(153, 0, 167) 100%
+  );
+}
